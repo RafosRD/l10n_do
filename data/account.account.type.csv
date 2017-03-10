@@ -1,0 +1,17 @@
+id,name,report_type
+do_chart_template_type_1,Root/View,none
+do_chart_template_type_2,Receivable,asset
+do_chart_template_type_3,Payable,liability
+do_chart_template_type_4,Bank,asset
+do_chart_template_type_5,Cash,asset
+do_chart_template_type_6,Asset,asset
+do_chart_template_type_7,Liability,liability
+do_chart_template_type_8,Income,income
+do_chart_template_type_9,Expense,expense
+do_chart_template_type_10,Income View,income
+do_chart_template_type_11,Expense View,expense
+do_chart_template_type_12,Asset View,asset
+do_chart_template_type_13,Liability View,liability
+do_chart_template_type_14,Tax,expense
+do_chart_template_type_15,Equity,liability
+do_chart_template_type_16,Check,asset
